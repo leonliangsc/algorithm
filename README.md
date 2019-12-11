@@ -1,0 +1,2 @@
+# algorithm
+A Wiki
